@@ -1,10 +1,16 @@
-# 下载服务器 downLoad Server
+# downLoad Server
 
 `npm install --global http-server`
 
+or 
+
+`npm install anywhere -g`
+
 # Run Server
 
-`http-server [path]`
+* if you have http-server run `http-server [path]`
+* if you have anywhere run `anywhere -2345`
+
 
 # http-serve-npm
 
